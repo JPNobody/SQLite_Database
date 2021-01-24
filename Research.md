@@ -17,7 +17,7 @@ This is the documentation for the coding that I have learned in the creation of 
 [Example monster here](https://2e.aonprd.com/Monsters.aspx?ID=799)
 
 ## Tables
-Each table has rows that describe the thing.
+Each table has columns that describes what goes into the table.
 
 
 
